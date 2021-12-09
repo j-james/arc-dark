@@ -1,0 +1,20 @@
+/* Arc-Dark Discord theme */
+/* For use with beautifuldiscord */
+/* ~/.config/discord/0.0.XX/modules/discord_desktop_core/discord-custom.css */
+
+.theme-dark {
+	/* Message stream backgrounds and top right header */
+	--background-primary: #404552!important;
+	/* Folder, channel list, member list and pinned message backgrounds */
+	--background-secondary: #353945;
+	/* Server list and search background*/
+	--background-tertiary: #2F343F;
+	/* User name and settings icon background */
+	--background-secondary-alt: #383C4A;
+	/* Message background */
+	--channeltextarea-background: #383C4A;
+}
+
+.peopleColumn-29fq28 {
+	background-color: #404552!important;
+}
